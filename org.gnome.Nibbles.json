@@ -75,7 +75,8 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/GNOME/libgee.git"
+                    "url": "https://github.com/GNOME/libgee.git",
+                    "branch": "main"
                 }
             ]
         },
@@ -96,7 +97,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/GNOME/gnome-nibbles.git"
+                    "url": "https://github.com/GNOME/gnome-nibbles.git",
                     "branch": "release-4-1"
                 }
             ]
